@@ -1,4 +1,6 @@
 coda-color-scheme
 =================
 
-"Ruby Blue" inspired color scheme for Coda.
+"Ruby Blue" inspired syntax highlighting theme for Coda.
+
+(Requires Coda 2.0)
